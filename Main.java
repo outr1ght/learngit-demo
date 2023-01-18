@@ -6,7 +6,9 @@ class Main {
         public static final String WEAPONS = "weapons";
         public static final String BANNED_SUBSTANCE = "banned substance";
 
-        //Stepik code: start
+        /*
+        Something changed here just for a TEST
+        */
 
         static class Spy implements MailService {
             private final static Logger LOGGER = Logger.getLogger(Spy.class.getName());
